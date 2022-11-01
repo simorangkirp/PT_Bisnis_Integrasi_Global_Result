@@ -1,10 +1,9 @@
-# big_test
-
-A new Flutter project.
+# PT_Bisnis_Integrasi_Global_Mobile_Result
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project ini merupakan hasil dari test Mobile Developer
+di PT Bisnis Integrasi Global
 
 A few resources to get you started if this is your first Flutter project:
 
